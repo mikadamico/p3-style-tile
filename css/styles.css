@@ -49,6 +49,21 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: #423D57;
+}
+
+.color-2 {
+	background: #4894B0;
+}
+
+.color-3 {
+	background: #565394;
+}
+
+.pattern-1 {
+	background: url("../img/swirl_pattern.png");
+}
 
 /* Show Grid */
 .showgrid {
