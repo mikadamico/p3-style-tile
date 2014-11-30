@@ -1,16 +1,30 @@
 /* Primary Header */
 
+h1 {
+	font-family: 'Francois One', sans-serif;
+	color: #000;
+	font-size: 4em;
+	margin-bottom: -10px;
+}
+
 h2 {
-	font-family: 'Fontdiner Swanky', cursive;
-	color: #8E5C5D;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 2em;
+	
+}
+
+h3 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.5em;
 }
 
 /* Body Text */
 
 p {
-	font-family: 'Lobster', cursive;
-	color: #ccc;
-	letter-spacing: 2px;
+	font-family: 'Roboto Slab', serif;
+	color: #7D7D84;
+	font-size: 1em;
+	line-height: 21px;
 }
 
 /* Baseline Links */
@@ -42,7 +56,7 @@ section {
 .pattern-1,
 .pattern-2,
 .pattern-3 {
-	border: 1px solid #000;
+	border: 3px solid #000;
 	float: left;
 	margin: 0 10px;
 	height: 50px;
@@ -50,15 +64,15 @@ section {
 }
 
 .color-1 {
-	background: #423D57;
+	background: #000;
 }
 
 .color-2 {
-	background: #4894B0;
+	background: #7D7D84;
 }
 
 .color-3 {
-	background: #565394;
+	background: #FFF;
 }
 
 .pattern-1 {
