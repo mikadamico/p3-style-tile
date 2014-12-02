@@ -1,10 +1,10 @@
 /* Logo */
 
 .logo {
-	height: 260px;
-	width: 260px;
+	height: 225px;
+	width: 225px;
 	padding: 80px;
-	margin: -3em 0 0 16em;
+	margin: -3em 0 0 18em;
 }
 
 hr#lineone {
@@ -22,7 +22,7 @@ h1 {
 	font-family: 'Francois One', sans-serif;
 	color: #000;
 	font-size: 4em;
-	margin: -13px 0 -10px 0;
+	margin: -16px 0 -10px 0;
 	margin-bottom: -10px;
 }
 
@@ -37,6 +37,9 @@ h3 {
 	font-size: 1.5em;
 }
 
+em {
+	font-size: 1.2em;
+}
 /* Body Text */
 
 p {
@@ -48,6 +51,7 @@ p {
 
 p#main {
 	max-width: 27em;
+	margin-bottom: 20px;
 }
 
 #one {
@@ -65,6 +69,19 @@ a:visited {
 
 a:hover {
 	text-decoration: underline;
+}
+
+/* Palettes */
+
+#color-palette {
+	margin-left: 16px;
+	padding-bottom: 7em;
+}
+
+#pattern-palette {
+	margin-right: -20px;
+	padding-bottom: 7em;
+
 }
 
 /* Set Your Own Margin & Padding */
