@@ -1,8 +1,15 @@
 /* Logo */
 
 .logo {
-	height: 300px;
-	width: 300px;
+	height: 260px;
+	width: 260px;
+	padding: 80px;
+	margin: -3em 0 0 16em;
+}
+
+hr {
+	width: 950px;
+	margin: -50px 0 40px 0;
 }
 
 /* Primary Header */
@@ -11,6 +18,7 @@ h1 {
 	font-family: 'Francois One', sans-serif;
 	color: #000;
 	font-size: 4em;
+	margin: -13px 0 -10px 0;
 	margin-bottom: -10px;
 }
 
